@@ -1,12 +1,12 @@
 Hi 
 
-My name is Ifeakachukwu Kelvin Osakwe, I started programming in March 2019 and my first language was Java.
+My name is Ifeakachukwu Kelvin Osakwe, I am a software developer and my first programming language was Java.
 
- I remember how I got overwhelmed when I started learning the basics of Java and programming in general. An older friend of mine, who was a Software Engineer recommended a book for me to learn Java.
+I remember how I got overwhelmed when I started learning the basics of Java and programming in general. An older friend of mine, who was a Software Engineer recommended a book for me to learn Java.
  
- The book had two parts - the first part touched the fundamental concepts of Java as a language, the second part went advanced and dived deep into some Java topics.
+The book had two parts - the first part touched the fundamental concepts of Java as a language, the second part went advanced and dived deep into some Java topics.
  
- Because of where I was at that time coupled with erratic power supply, I had to dedicate at least one hour a day to learn Java.
+Because of where I was at that time coupled with erratic power supply, I had to dedicate at least one hour a day to learn Java.
 
 It took me about 4 months to get a hold of basic programming concepts and the Java language itself.
 
@@ -41,7 +41,3 @@ Other Concepts :
 3. How is the File Structure like, does the language have the concept of Packages or Modules.
 
 I believe these are the things you need to have a grasp of whenever you are learning a programming language. With understanding these concepts in the language, you can be up to speed with building applications using the language.
-
-
-
-
